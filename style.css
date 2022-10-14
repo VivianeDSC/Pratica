@@ -1,0 +1,31 @@
+.header{
+    padding: 10px;
+   }   
+body{
+    background-color: rgb(236, 211, 250);
+
+}
+
+h1 {
+    color: rgb(5, 109, 10); 
+
+   }
+
+h2{
+    color: blueviolet;
+}
+footer{
+    padding: 10px 10px 5px 0;
+    color: darkblue;
+    font-size: 10px;
+}
+a{
+    padding: 100px 100px;
+}
+
+.list{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-decoration: underline;
+    color: darkgreen;
+    list-style: none;
+}
