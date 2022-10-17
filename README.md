@@ -1,3 +1,1 @@
-# PraticaSoftware_VivianeDSC
-# PraticaSoftware_VivianeDSC
-# Pratica
+# Pratica básica de software / java
